@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and Astronomy, University of Mississippi, 2016
+* Ph.D in Physics and Astronomy, University of Glasgow, 2021 (expected)
 
 Work experience
 ======
