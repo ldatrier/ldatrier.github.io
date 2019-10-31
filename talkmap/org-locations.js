@@ -5,11 +5,6 @@ var addressPoints = [
     -122.2728639
   ],
   [
-    "Los Angeles, CA",
-    34.0536909,
-    -118.2427666
-  ],
-  [
     "Baltimore, Maryland",
     39.2908816,
     -76.610759
@@ -18,5 +13,10 @@ var addressPoints = [
     "Hattiesburg, MS",
     31.3271189,
     -89.2903392
+  ],
+  [
+    "Starkville, MS",
+    33.4503998,
+    -88.8183872
   ]
 ];
