@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728639
-  ],
-  [
     "Baltimore, Maryland",
     39.2908816,
     -76.610759
@@ -18,5 +13,10 @@ var addressPoints = [
     "Starkville, MS",
     33.4503998,
     -88.8183872
+  ],
+  [
+    "Salt Lake City, UT",
+    40.7670126,
+    -111.8904308
   ]
 ];
