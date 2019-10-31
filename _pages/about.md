@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Mr. Hunter Gabbard's home on the web!
+This is my home on the web!
 
 
