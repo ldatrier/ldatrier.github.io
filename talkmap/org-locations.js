@@ -43,5 +43,15 @@ var addressPoints = [
     "Beijing, China",
     39.906217,
     116.3912757
+  ],
+  [
+    "Edinburgh, UK",
+    55.9533456,
+    -3.1883749
+  ],
+  [
+    "Valencia, Spain",
+    39.4699014,
+    -0.3759513
   ]
 ];
