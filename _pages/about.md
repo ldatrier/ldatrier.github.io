@@ -20,6 +20,6 @@ In 2016, I was awarded a Fulbright Fellowship from United States Department of S
 
 Now, finally, I'm here at Glasgow! I was lucky enough to be awarded the SUPA Higgs fellowship to come here and since then have primarily been working on various applications of machine learning towards the LIGO search for graviational waves. 
 
-In terms of futre plans, I don't have a preference yet about whether I stay in academic, go to government, or work in industry. As long as the work is fun and the problems are interesting, it's all gravy to me! More science related stuff to come in future blog posts.
+In terms of future plans, I don't have a preference yet about whether I stay in academia, go into a government lab, or work in industry. As long as the work is fun and the problems are interesting, it's all gravy to me! More science related stuff to come in future blog posts.
 
 
