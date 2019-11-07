@@ -12,6 +12,10 @@ Hey there nosy web page reader! My name is Hunter Gabbard and this is my web pag
 
 I'm a physics and astronomy PhD student at the University of Glasgow with deep (pardon the pun) interests in machine learning and statistics. I'd also like to get into dark matter, dark energy and cosmology at some point over the next several years. In my free time I enjoy backpacking, camping, acoustic guitar playing (badly), baking, reading and video games. I also have a fond affinity for Scotch whiskies, particularly Islay whiskies. 
 
+<img src="/images/lights_profile_pic.jpg"
+     alt="Another profile pic of me"
+     style="float: left; margin-right: 10px;" />
+
 I grew up in Chicago, Illinois where I was heavily involved in many sports (football, figure skating, soccer) until my family eventually moved back down to Austin, Texas where I was born. During high school I continued playing football, took up pole vaulting and earned the rank of Eagle Scout. I decided early on that I wanted to go to University out of state and settled on the University of Mississippi to pursue a degree in physics. It was at Ole Miss that I found my true passion for physics and machine learning. While at Ole Miss I worked under the tutelage of Marco Cavaglia on detector characterization for advanced LIGO (Laser Interferometer Gravitational wave Observatory). I spent many countless hours hunched over my laptop searching for all sorts of glitches which go bump in the night. 
 
 I was fortunate enough to be awarded two summer fellowships through the National Science Foundation at both the University of Texas Rio Grande Valley in Brownsville, Texas and the Laboratoire de l'Accélérateur Linéaire in Paris, France. In Paris, I worked with Florence Robinet on the characterization and improvement of the Omicron event trigger generator. In Brownsville, I had my first exposure to machine learning through the use of self organizing feature maps applied to unsupervised glitch classification. Though no manuscript came out of this fellowship, it was a formative experience for me and set my on the current path I am on now. 
