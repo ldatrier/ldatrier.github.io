@@ -1,7 +1,7 @@
 ---
 title: 'First Blog Post'
 date: 2019-11-07
-permalink: /posts/FirstPost
+permalink: /posts/2019/11/07/FirstPost
 tags:
   - Machine Learning
   - Blogs
