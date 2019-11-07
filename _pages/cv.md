@@ -21,6 +21,11 @@ Work experience
   * Duties included: Prototyping emerging AI techniques for the practical delivery of space-based QKD systems.
   * Supervisor: Steeve Greenland, CEO.
 
+* September 2016 - July 2017: Fulbright Fellowship Finalist
+  * Max Planck Institute for Gravitational Research (Hannover, Germany)
+  * Duties included: Applications of machine learning to the LIGO search for gravitational waves.
+  * Supervisor: Dr. Andrew Lundgren
+
 * Summer 2015: NSF REU Research Assistant
   * University of Texas Rio Grande Valley
   * Duties included: Using unsupervised machine learning to classify glitches in LIGO data.
