@@ -24,7 +24,7 @@ I was fortunate enough to be awarded two summer fellowships through the National
      alt="Another profile pic of me in paris"
      style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
-In 2016, I was awarded a Fulbright Fellowship from theUnited States Department of State for study at the Max Planck Institute for Gravitational Research in Hannover, Germany. Not only did I get to work with some of the best in the business during my time at the Institute, but met some amazing people along the way who I continue to be friends with to this day. If you only get one chance to experience Germany, you absolutely ... unequivocally ... have to visit the Christmas markets. You may die of meat sweats, but you won't regret it.
+In 2016, I was awarded a Fulbright Fellowship from the United States Department of State for study at the Max Planck Institute for Gravitational Research in Hannover, Germany. Not only did I get to work with some of the best in the business during my time at the Institute, but met some amazing people along the way who I continue to be friends with to this day. If you only get one chance to experience Germany, you absolutely ... unequivocally ... have to visit the Christmas markets. You may die of meat sweats, but you won't regret it.
 
 <img src="/images/germany_pic.jpg"
      alt="Another profile pic of me in germany"
