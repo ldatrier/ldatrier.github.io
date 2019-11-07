@@ -8,6 +8,6 @@ date: 2019-02-04
 location: "Glasgow, United Kingdom"
 ---
 
-A hands-on machine learning course for physics and astronomy PhD students at the University of Glasgow.
+A hands-on machine learning course for physics and astronomy PhD students at the University of Glasgow (see link below for course).
 
-https://github.com/hagabbar/Glasgow_Machine_Learning_Course-2019
+<a href="https://github.com/hagabbar/Glasgow_Machine_Learning_Course-2019">Course Home</a>
