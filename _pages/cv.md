@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* September 2019 - March 2020: Research Scientists
+* September 2019 - March 2020: Research Scientist
   * Craft Prospect
   * Duties included: Prototyping emerging AI techniques for the practical delivery of space-based QKD systems.
   * Supervisor: Steeve Greenland, CEO.
@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Professor Soma Mukherjee
 
 * Summer 2014: NSF IREU Research Assistant
-  * University of Florida | Laboratoire de l'Accélérateur Linéaire
+  * University of Florida and Laboratoire de l'Accélérateur Linéaire
   * Duties included: Characterization of the Omicron trigger generator for LIGO.
   * Supervisor: Dr. Florent Robinet
   
