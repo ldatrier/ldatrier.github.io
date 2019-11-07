@@ -14,7 +14,7 @@ I'm a physics and astronomy PhD student at the University of Glasgow with deep (
 
 <img src="/images/lights_profile_pic.jpg"
      alt="Another profile pic of me"
-     style="float: left; margin-right: 10px;" />
+     style="TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" />
 
 I grew up in Chicago, Illinois where I was heavily involved in many sports (football, figure skating, soccer) until my family eventually moved back down to Austin, Texas where I was born. During high school I continued playing football, took up pole vaulting and earned the rank of Eagle Scout. I decided early on that I wanted to go to University out of state and settled on the University of Mississippi to pursue a degree in physics. It was at Ole Miss that I found my true passion for physics and machine learning. While at Ole Miss I worked under the tutelage of Marco Cavaglia on detector characterization for advanced LIGO (Laser Interferometer Gravitational wave Observatory). I spent many countless hours hunched over my laptop searching for all sorts of glitches which go bump in the night. 
 
