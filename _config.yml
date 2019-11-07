@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Mr. Hunter Gabbard"
+theme                    : jekyll-theme-midnight
 title_separator          : "-"
 name                     : &name "Mr. Hunter Gabbard"
 description              : &description "PhD Candidate at the University of Glasgow"
