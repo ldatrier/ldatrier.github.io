@@ -16,24 +16,31 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - March 2020: Research Scientists
+  * Craft Prospect
+  * Duties included: Prototyping emerging AI techniques for the practical delivery of space-based QKD systems.
+  * Supervisor: Steeve Greenland, CEO.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: NSF REU Research Assistant
+  * University of Texas Rio Grande Valley
+  * Duties included: Using unsupervised machine learning to classify glitches in LIGO data.
+  * Supervisor: Professor Soma Mukherjee
+
+* Summer 2014: NSF IREU Research Assistant
+  * University of Florida | Laboratoire de l'Accélérateur Linéaire
+  * Duties included: Characterization of the Omicron trigger generator for LIGO.
+  * Supervisor: Dr. Florent Robinet
   
-Skills
+Programming Languages/Packages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (extensive experience)
+* TensorFlow (extensive experience)
+* PyTorch (extensive experience)
+* Keras (extensive experience)
+* HTML (some experience)
+* Bash (some experience)
+* C++ (minimal experience)
+* MATLAB (minimal experience)
 
 Publications
 ======
