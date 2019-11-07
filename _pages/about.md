@@ -20,11 +20,23 @@ I grew up in Chicago, Illinois where I was heavily involved in many sports (foot
 
 I was fortunate enough to be awarded two summer fellowships through the National Science Foundation at both the University of Texas Rio Grande Valley in Brownsville, Texas and the Laboratoire de l'Accélérateur Linéaire in Paris, France. In Paris, I worked with Florence Robinet on the characterization and improvement of the Omicron event trigger generator. In Brownsville, I had my first exposure to machine learning through the use of self organizing feature maps applied to unsupervised glitch classification. Though no manuscript came out of this fellowship, it was a formative experience for me and set my on the current path I am on now. 
 
+<img src="/images/paris_profile_pic.jpg"
+     alt="Another profile pic of me in paris"
+     style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+
 In 2016, I was awarded a Fulbright Fellowship from theUnited States Department of State for study at the Max Planck Institute for Gravitational Research in Hannover, Germany. Not only did I get to work with some of the best in the business during my time at the Institute, but met some amazing people along the way who I continue to be friends with to this day. If you only get one chance to experience Germany, you absolutely ... unequivocally ... have to visit the Christmas markets. You may die of meat sweats, but you won't regret it.
+
+<img src="/images/germany_pic.jpg"
+     alt="Another profile pic of me in germany"
+     style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 Now, finally, I'm here at Glasgow! I was lucky enough to be awarded the SUPA Higgs fellowship to come here and since then have primarily been working on various applications of machine learning towards the LIGO search for gravitational waves. 
 
 In terms of future plans, I don't have a preference yet about whether I stay in academia, go into a government lab, or work in industry. As long as the work is fun and the problems are interesting, it's all gravy to me! More science related stuff to come in future blog posts.
+
+<img src="/images/scotland_pic.jpg"
+     alt="Another profile pic of me"
+     style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 
 
