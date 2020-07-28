@@ -1,6 +1,7 @@
+
 ---
-title: "NCal"
-excerpt: "Short animation of Newtonian Calibrator"
+title: "Newtonian Calibrator animation"
+excerpt: "Digital, 2020 (Animation) <br/><img src='/images/NCal.gif'  style='width:300px;'>"
 collection: art
 author_profile: true
 ---
