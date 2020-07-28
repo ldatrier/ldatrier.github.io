@@ -6,3 +6,4 @@ author_profile: true
 ---
 
 LIGO NCal
+<br/><img src='/images/NCal.gif'>
