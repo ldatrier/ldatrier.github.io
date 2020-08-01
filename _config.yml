@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Laurence"
+title                    : "Laurence Datrier"
 title_separator          : "-"
-name                     : &name "Laurence"
+name                     : &name "Laurence Datrier"
 description              : &description "my page"
 url                      : https://ldatrier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laurence Datrier"
   avatar           : "profile.jpg"
-  bio              : "PhD student, multi-messenger astronomy"
+  bio              : "PhD student at the University of Glasgow, I work on multi-messenger astronomy (focusing on optical counterparts) and calibration of the aLIGO detectors"
   location         : "Glasgow, UK"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
