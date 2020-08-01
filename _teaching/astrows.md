@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/astrows
 venue: "Glasgow Science Centre"
-date: 2016
+date: 2016-06-01
 location: "Glasgow, UK"
 ---
 
