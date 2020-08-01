@@ -1,18 +1,6 @@
 ---
 layout: default
 permalink: /art/
-images:
-  - image_path: /images/2DBH.png
-    title: 2DBH
-  - image_path: /images/NCal.gif
-    title: NCal
-  - image_path: /images/pulsar.png
-    title: pulsar
-  - image_path: /images/BNS2.png
-    title: BNS2
-    weight:1
-  - image_path: /images/BNS.png
-    title: BNS
 author_profile: true
 ---
 <ul class="art">
@@ -20,3 +8,10 @@ author_profile: true
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
+
+{% include base_path %}
+
+
+{% for post in site.art %}
+  {% include archive-single.html %}
+{% endfor %}
