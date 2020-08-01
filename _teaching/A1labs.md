@@ -2,7 +2,7 @@
 title: "Astronomy 1 labs"
 collection: teaching
 type: "Undergraduate labs"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/A1labs
 venue: "University of Glasgow"
 date: 2017-2020
 location: "Glasgow, UK"
