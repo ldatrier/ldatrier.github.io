@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate labs"
 permalink: /teaching/A1labs
 venue: "University of Glasgow"
-date: 2017-2020
+date: 2017-01-01
 location: "Glasgow, UK"
 ---
 
