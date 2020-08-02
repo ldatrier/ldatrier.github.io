@@ -4,11 +4,10 @@ title:"Art Portfolio"
 permalink: /art/
 author_profile: true
 ---
-<ul class="art">
-  {% for image in page.images %}
+  {% for image in site.images/artimages %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
-</ul>
+
 
 {% include base_path %}
 
