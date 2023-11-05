@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Laurence Datrier"
   avatar           : "profile.jpg"
-  bio              : "PhD student at the University of Glasgow, working on multi-messenger astronomy and with a keen interest in cosmology."
+  bio              : "Recent PhD graduate from the University of Glasgow, working on multi-messenger astronomy and gravitational wave cosmology."
   location         : "Glasgow, UK"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
+  redbubble        : "https://www.redbubble.com/people/ASleepyWanderer/shop"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
