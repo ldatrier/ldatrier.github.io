@@ -84,6 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : "Recent PhD graduate from the University of Glasgow, working on multi-messenger astronomy and gravitational wave cosmology."
   location         : "Glasgow, UK"
+  links:
+    - label: "Redbubble"
+      icon: "https://ldatrier.github.io/redbubble-icon-2048x2048-elc9dg88.png"
+      url: "https://www.redbubble.com/people/ASleepyWanderer/shop"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
