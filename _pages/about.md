@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Laurence Datrier's page"
+title: "Laurence Datrier"
 excerpt: "About me"
 author_profile: true
 redirect_from:
