@@ -15,12 +15,13 @@ main:
   - title: "Art Gallery"
     url: /gallery/
 
+  - title: "CV"
+    url: /CV_DATRIER_colour-3.pdf
+
   - title: "Redbubble shop"
     url: https://www.redbubble.com/people/ASleepyWanderer/shop
 
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
