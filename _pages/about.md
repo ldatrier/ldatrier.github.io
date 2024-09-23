@@ -11,7 +11,7 @@ Hello, and welcome!
 
 I'm a recent PhD graduate from the University of Glasgow. I have worked on multi-messenger astronomy with kilonovae, gravitational wave cosmology and detector calibration as part of the LIGO collaboration.
 
-I am incoming postdoctoral researcher at California State University Fullerton, where I will be working on Cosmic Explorer.
+I am an incoming postdoctoral researcher at California State University Fullerton, where I will be working on Cosmic Explorer.
 
 When I'm not doing research, I enjoy getting involved in various outreach activities! I started getting involved in astronomy outreach during my undergraduate degree, and haven't stopped since. I have since been involved in and organised many events from talks and festivals to observing evenings, and worked with a variety of audiences.
 
