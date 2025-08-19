@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Laurence Datrier"
   avatar           : "profile.jpg"
-  bio              : "Recent PhD graduate from the University of Glasgow, working on multi-messenger astronomy and gravitational wave cosmology."
-  location         : "Glasgow, UK"
+  bio              : "Postdoctoral Associate at Cal State Fullerton, working on Cosmic Explorer. Formerly PhD at the University of Glasgow, working on multi-messenger astronomy and gravitational wave cosmology."
+  location         : "Fullerton, CA, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "laurence.datrier@glasgow.ac.uk"
+  email            :  "ldatrier@fullerton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
