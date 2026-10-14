@@ -86,7 +86,7 @@ author:
   location         : "Fullerton, CA, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yUKFI2EAAAAJ&hl=en&oi=ao"
   email            :  "ldatrier@fullerton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/laurence-datrier-b441a0110"
   orcid            : "https://orcid.org/0000-0002-0290-3129"
   pinterest        :
   soundcloud       :
